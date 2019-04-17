@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        >
+        <TextView
+            android:id="@+id/nameos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:text="Ibrahim Mohamed "
+            android:textColor="@color/greatline"
+            />
+        <TextView
+            android:id="@+id/phoneos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="01094180992"
+            android:textColor="@color/middleline"
+            android:layout_marginTop="3dp"
+            />
+        <TextView
+            android:id="@+id/desos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="from here you can get dream worh in city new Capital with us you deram be Truth"
+            android:textColor="@color/smallline"
+            android:layout_marginTop="10dp"
+
+            />
+
+    </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+      <View
+          android:layout_width="match_parent"
+          android:layout_height="8dp"
+          android:background="@color/viewcolor" />
+
+  </LinearLayout>
+    </LinearLayout>

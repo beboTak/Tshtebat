@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E20A0A5A</color>
+    <color name="colorPrimaryDark">#EE060642</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Button">#673AB7</color>
+    <color name="ButtonClick">#9C27B0</color>
+    <color name="Background">#ECEFF1</color>
+    <color name="Background1">#304769</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Blueline">#3949AB</color>
+    <color name="nameRec">#a1a1a1</color>
+    <color name="otherRec">#2d2d2d</color>
+    <color name="viewcolor">#D8D8D8</color>
+    <color name="phonecolor">#7b7b7b</color>
+    <color name="greatline">#111010</color>
+    <color name="middleline">#252424</color>
+    <color name="smallline">#363333</color>
+
+</resources>

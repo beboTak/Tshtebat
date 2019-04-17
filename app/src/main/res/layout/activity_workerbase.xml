@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/worker"
+    tools:context="bebosemsemcom.ibrahimbebo.tshtebat.OwnerActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/infowo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshow"
+            android:text="@string/addData"
+            android:layout_marginTop="300dp"
+            android:textSize="20sp"
+            android:textColor="@color/White"
+            android:layout_marginRight="70dp"
+            android:layout_marginLeft="70dp"
+            />`
+
+
+
+        <Button
+            android:id="@+id/searchwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshow"
+
+            android:text="@string/osearch"
+            android:textSize="20sp"
+            android:textColor="@color/White"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginLeft="70dp"
+            />`
+
+    </LinearLayout>
+
+</ScrollView>

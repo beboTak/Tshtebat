@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tshtebat</string>
+    <string name="worker">worker</string>
+    <string name="work_owner">work owner</string>
+    <string name="osearch">search about work</string>
+    <string name="wname">Name</string>
+    <string name="wphone">Phone</string>
+    <string name="wcity">City</string>
+    <string name="wjop">Jop</string>
+    <string name="info">Welcome ,Enter Information</string>
+    <string name="register">Register</string>
+    <string name="ownersearch">Enter The City</string>
+    <string name="addData">Enter Your Data</string>
+    <string name="searchcity">City</string>
+    <string name="searchjop">Jop</string>
+    <string name="description">Details Of Work</string>
+    <string name="wsearch">search about workers</string>
+    <string name="loading">Its Loading</string>
+    <string name="successdownload">Data Downlaoded Successfully</string>
+    <string name="sendSuccess">Data Send Successfully or send by same phone before</string>
+    <string name="sendfail">There Are a Wrong !</string>
+    <string name="Registermessage">Its Sending </string>
+    <string name="sendsuccessowner">Data Send Successfully</string>
+</resources>

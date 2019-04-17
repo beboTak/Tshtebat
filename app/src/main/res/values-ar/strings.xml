@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تشطيبات</string>
+    <string name="worker">طالب عمل</string>
+    <string name="work_owner">صاحب عمل</string>
+    <string name="wname">الاسم</string>
+    <string name="wphone">التليفون</string>
+    <string name="wcity">المدينة</string>
+    <string name="wjop">المهنة او الوظيفة</string>
+    <string name="info">مرحبا, الرجاء ادخال بياناتك</string>
+    <string name="register">تسجيل</string>
+    <string name="ownersearch">اختر المدينة</string>
+    <string name="searchcity">المدينة</string>
+    <string name="searchjop">العمل</string>
+    <string name="description">تفاصيل العمل</string>
+    <string name="addData">ادخل بياناتك</string>
+    <string name="wsearch">البحث عن عمال</string>
+    <string name="osearch">ابحث عن عمل</string>
+    <string name="loading">جار التحميل</string>
+    <string name="successdownload">تم تحميل البيانات بنجاح</string>
+    <string name="sendsuccessowner">تم حفظ بياناتك بنجاح</string>
+    <string name="sendSuccess">تم حفظ بياناتك بنجاح او تم التسجيل بنفس الرقم من قبل</string>
+    <string name="sendfail"> هناك خطا ما يرجى التحقق من بياناتك واتصالك بالانترنت </string>
+    <string name="Registermessage">جار التسجيل</string>
+</resources>

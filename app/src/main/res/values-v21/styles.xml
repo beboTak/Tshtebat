@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorControlNormal">#000</item>
+        <item name="android:colorControlActivated">@color/colorAccent</item>
+        <item name="android:textColorHighlight">#679</item>
+        <item name="android:textColorLink">#9E9E9E</item>
+
+
+    </style>
+
+
+</resources>
